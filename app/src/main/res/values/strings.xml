@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">بوت اليقطين</string>
+    <string name="a11y_desc">يُستخدم لتنفيذ لمسات اللعب (يمين/يسار) نيابةً عنك أثناء تشغيل البوت فقط.</string>
+</resources>
